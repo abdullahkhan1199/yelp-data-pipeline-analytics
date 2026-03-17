@@ -14,11 +14,12 @@ The goal of this project was to use Yelp data to support data-driven restaurant 
 - Tableau / Data Visualization
 
 ## Files in this Repository
-- `group-9-project-badm-554 (4).ipynb` – analysis notebook
-- `project3 partA (2).knwf` – KNIME workflow file
-- `project3 partA (3).knwf` – KNIME workflow file
-- `BADM 554 - Project Presentation...` – presentation summarizing key findings
-- `BADM 554 - Mini Project 3, Part ...` – additional workflow/project file
+- `data_preparation_azure_upload.ipynb` – notebook for data cleaning, transformation, and Azure SQL upload
+- `business_analysis.ipynb` – notebook containing the main business analysis and insights
+- `knime_workflow_part_a.knwf` – KNIME workflow file
+- `knime_workflow_part_b.knwf` – KNIME workflow file
+- `project_presentation.pptx` – presentation summarizing key findings
+- `additional_knime_workflow.knwf` – additional workflow/project file
 
 ## Key Insights
 - Analyzed Yelp restaurant trends across 5 U.S. cities
